@@ -1,4 +1,3 @@
-# write your code here
 import random
 
 def save_result(score,game):
